@@ -1,2 +1,1 @@
-My first readme or so I thought.
-keep thinking
+My first readme. 
